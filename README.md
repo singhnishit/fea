@@ -4,4 +4,4 @@ An implementation of the finite element method for 3D meshes with transient load
 
 ## Project Structure
 
-![structure.png](https://github.com/singhnishit/fea/blob/main/images/project_structure.png)
+![structure.png](https://github.com/singhnishit/fea/blob/main/images/Group%202.svg)
